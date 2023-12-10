@@ -40,14 +40,14 @@
     font-size: 65px;
     font-weight: 700;
     color: #000000;
-    padding-top: 50px; 
+    padding-top: 50px;
 }
 .main-des{
     color: #707070;;
     font-size: 28px;
     font-weight: 300;
     text-align: center;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 .donate-am{
     display: flex;
@@ -97,4 +97,23 @@ hr{
     margin-left: 400px;
     margin-right: 400px;
     margin-bottom: 30px;
+}
+.donation-all{
+    display: flex;
+}
+.donation-plan{
+    padding: 0 80px;
+    margin: 0 80px;
+    width: 315px;
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);
+
+
+}
+.donat-ty{
+    height: 101px;
+    color: #707070;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
 }
