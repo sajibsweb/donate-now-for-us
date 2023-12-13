@@ -37,14 +37,14 @@
 }
 .main-title{
     text-align: center;
-    font-size: 65px;
+    font-size: 45px;
     font-weight: 700;
     color: #000000;
     padding-top: 50px;
 }
 .main-des{
     color: #707070;;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 300;
     text-align: center;
     padding-bottom: 20px;
@@ -98,15 +98,48 @@ hr{
     margin-right: 400px;
     margin-bottom: 30px;
 }
+.our-donate{
+    margin-left: 400px;
+}
+.donation-plan-one img{
+    padding-top: 50px;
+}
+.donation-plan-two img{
+    padding-top: 50px;
+}
+.donation-plan-three img{
+    padding-top: 50px;
+}
 .donation-all{
     display: flex;
+    width: 1760px;
+    height: 352px;
+    margin-bottom: 20px;
 }
-.donation-plan{
-    padding: 0 80px;
-    margin: 0 80px;
+.donation-plan-one{
+    padding: 0 20px;
+    margin: 0 10px;
     width: 315px;
     border-radius: 5px;
     background: rgba(79, 157, 166, 0.10);
+
+
+}
+.donation-plan-two{
+    padding: 0 20px;
+    margin: 0 10px;
+    width: 315px;
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.10);
+
+
+}
+.donation-plan-three{
+    padding: 0 20px;
+    margin: 0 10px;
+    width: 315px;
+    border-radius: 5px;
+    background: #FFF4D6;
 
 
 }
@@ -114,6 +147,155 @@ hr{
     height: 101px;
     color: #707070;
     font-family: Poppins;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 400;
+    text-align:left;
+}
+.donation-image-one{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 140px;
+
+}
+.donation-description-one h1{
+    width: 492px;
+    font-size: 45px;
+    font-weight: 700;
+}
+.donation-description-one p{
+    width: 420px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    color: #707070;
+}
+.contribute-button{
+    color: #ffffff;
+    display: flex;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top:16px ; 
+    padding-bottom: 16px; 
+    background: #FF5959;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    margin-left: 0px;
+    margin-top: 40px;
+    font-weight: 600;
+}
+.donation6-image img{
+    width: 525px;
+    height: 550px;
+    border-radius: 5px;
+    margin: 0 100px;
+}
+.donation-image-two{
+    display: flex;
+    margin-left: 290px;
+    margin-top: 140px;
+
+}
+.donation-description-one h1{
+    width: 492px;
+    font-size: 45px;
+    font-weight: 700;
+}
+.donation-description-one p{
+    width: 420px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    color: #707070;
+}
+.contribute-button{
+    color: #ffffff;
+    display: flex;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top:16px ; 
+    padding-bottom: 16px; 
+    background: #FF5959;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    margin-left: 0px;
+    margin-top: 40px;
+    font-weight: 600;
+}
+.donation6-image img{
+    width: 525px;
+    height: 550px;
+    border-radius: 5px;
+    margin: 0 100px;
+}
+.subscribe-part{
+    background: #FFF4D6;
+    width: 809px;
+    height: 200px;
+    margin-left: 550px;
+    margin-bottom: 130px;
+}
+.email-submit{
+    display: flex;
+    margin-left: 180px;
+    padding-top: 80px;
+}
+.email-submit input{
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    background: #D9D9D9;
+    width: 275px;
+    height: 48px;
+}
+.email-place{
+    color: #AA9F9F;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 20px;
+}
+.email-submit button{
+    border-radius: 0px 5px 5px 0px;
+    border: none;
+    background: #FF5959;
+    width: 157px;
+    height: 48px;
+}
+.subscribe-button{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 20px;
+    text-align: center;
+}
+.footer-section{
+width: 1440px;
+height: 177px;
+padding: 43px 629px 42px 653px;
+align-items: center;
+background: #000000;
+}
+.footer-section h1{
+    color: #FF5959;
+    font-family: Lobster;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 44px; 
+    letter-spacing: 0.5px;
+    font-family: 'Lobster', sans-serif;
+    padding-left: 220px;
+}
+.footer-section p{
+    color:#D9DBE1;
+    font-family: Lobster;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: 0.5px;
+    font-family: 'Manrope', sans-serif;
+    padding-left: 250px;
 }
